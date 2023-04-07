@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Application - Get Order ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0abfaa1c-7567-43cc-b81d-ae2e493a087c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27ce90cd-c325-44a5-94d7-81977e72595a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>639e83f0-48c5-4432-8d2d-1b29fc668d09</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>27ce90cd-c325-44a5-94d7-81977e72595a</id>
+      <masked>false</masked>
+      <name>OrderID</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>639e83f0-48c5-4432-8d2d-1b29fc668d09</id>
+      <masked>false</masked>
+      <name>OrderLink</name>
+   </variable>
+</TestCaseEntity>

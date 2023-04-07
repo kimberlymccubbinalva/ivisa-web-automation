@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ID 8 - dob.day (A1)</name>
+   <tag></tag>
+   <elementGuidId>deb2c7f2-6d2f-4f86-9134-07692abee88a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;applicant.0.dob.day&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name='applicant.0.dob.day']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ed2ee780-ad73-4ff7-bfdc-32857fc323e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control q-select mr-1</value>
+      <webElementGuid>718d6218-27f2-4b9b-9c96-3b6b9bd5e1f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>applicant.0.dob.day</value>
+      <webElementGuid>558a7b3a-36bb-4447-8371-c905c0fbc790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Day12345678910111213141516171819202122232425262728293031</value>
+      <webElementGuid>afaedea8-c1ba-4892-a18e-1c219a90b325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mb-12 sm:mb-0&quot;]/div[1]/div[1]/div[@class=&quot;flex flex-col lg:flex-row items-start&quot;]/div[@class=&quot;w-full mx-auto order-2 lg:order-none lg:w-2/3 xl:w-3/4 lg:pr-8&quot;]/div[3]/div[@class=&quot;mb-4 shadow rounded-md bg-white pb-4 border-gray-300 border-1 border-solid&quot;]/div[@class=&quot;border-gray-100 border-t-2 border-solid w-full md:px-0 pt-5&quot;]/div[@class=&quot;card-body px-5&quot;]/div[@class=&quot;form-row flex flex-col lg:flex-row&quot;]/div[@class=&quot;form-group flex flex-col justify-end max-w-full col-12 col-md-6 col-sm-6&quot;]/div[@class=&quot;ivisa-input-wrapper w-full&quot;]/div[@class=&quot;w-full +&quot;]/div[@class=&quot;ivisa-datepicker flex items-center&quot;]/select[@class=&quot;form-control q-select mr-1&quot;]</value>
+      <webElementGuid>07b1d20f-de2c-4c1c-ad0e-5ca74b48e0e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='applicant.0.dob.day']</value>
+      <webElementGuid>810fd103-8220-4796-a91f-182029b2beaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/div/div/div[2]/div/div[3]/div/div[2]/div/div/div[5]/div/div/div/select[2]</value>
+      <webElementGuid>af37e403-ea61-4d6e-b8be-b3d176134273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birthday'])[1]/following::select[2]</value>
+      <webElementGuid>744bcb84-8da1-42bd-9314-43f4896a1b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country of Birth'])[1]/preceding::select[2]</value>
+      <webElementGuid>53c9d5b9-9bee-4322-a0b6-a0a650991807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country of Residence'])[1]/preceding::select[3]</value>
+      <webElementGuid>e323a3df-f33c-40bd-8bd4-6e44a2eccd61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[2]</value>
+      <webElementGuid>67621f4d-a44c-4a73-a95c-b81aada68be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'applicant.0.dob.day' and (text() = 'Day12345678910111213141516171819202122232425262728293031' or . = 'Day12345678910111213141516171819202122232425262728293031')]</value>
+      <webElementGuid>ecec9bc6-dbf2-4f39-b885-e9cad0b49383</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

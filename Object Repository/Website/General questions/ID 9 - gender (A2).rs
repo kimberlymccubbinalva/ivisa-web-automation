@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ID 9 - gender (A2)</name>
+   <tag></tag>
+   <elementGuidId>8d936c15-a3d8-4779-9f5e-8f1569fa565f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-dusk='dropdown-applicant.1.gender']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;applicant.1.gender&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4cb37d9e-11e8-42a4-9b45-89e66cc43635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ivisa-form-field ivisa-input-dropdown form-control</value>
+      <webElementGuid>3a49e813-73ec-4c77-995a-593836233fbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>applicant.1.gender</value>
+      <webElementGuid>b96f6a41-dc7c-4bd2-b5c9-9abfde8491be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MaleFemale</value>
+      <webElementGuid>31ad5448-9c2b-45e5-9ecc-3a3225920ffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mb-12 sm:mb-0&quot;]/div[1]/div[1]/div[@class=&quot;flex flex-col lg:flex-row items-start&quot;]/div[@class=&quot;w-full mx-auto order-2 lg:order-none lg:w-2/3 xl:w-3/4 lg:pr-8&quot;]/div[3]/div[@class=&quot;mb-4 shadow rounded-md bg-white pb-4 border-gray-300 border-1 border-solid&quot;]/div[@class=&quot;border-gray-100 border-t-2 border-solid w-full md:px-0 pt-5&quot;]/div[@class=&quot;card-body px-5&quot;]/div[@class=&quot;form-row flex flex-col lg:flex-row&quot;]/div[@class=&quot;form-group flex flex-col justify-end max-w-full col-12 col-md-6&quot;]/div[@class=&quot;ivisa-input-wrapper w-full&quot;]/div[@class=&quot;w-full +&quot;]/div[1]/select[@class=&quot;ivisa-form-field ivisa-input-dropdown form-control&quot;]</value>
+      <webElementGuid>477ca583-8474-45d1-a7f5-0e3012aa7d3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='applicant.1.gender']</value>
+      <webElementGuid>3e3cbb0f-6ffa-413d-b4d4-acdda47234ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/div/div/div[2]/div/div[3]/div[2]/div[2]/div/div/div[4]/div/div/div/select</value>
+      <webElementGuid>ebc88a1f-f196-4c2f-af04-d260b3989f81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birthday'])[2]/preceding::select[1]</value>
+      <webElementGuid>bd5a49af-e2c0-4294-b801-c3febb5ff843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country of Birth'])[2]/preceding::select[4]</value>
+      <webElementGuid>883da56b-b97d-41bd-830e-c0f3e025f2a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[4]/div/div/div/select</value>
+      <webElementGuid>05ce1dd8-255c-4372-8175-82b752804071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'applicant.1.gender' and (text() = 'MaleFemale' or . = 'MaleFemale')]</value>
+      <webElementGuid>c9aae60f-91cb-463f-8c34-bd9100e1e422</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

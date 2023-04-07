@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Disabled - Puerto Rico Health Declaration - 14 days, Single Entry</name>
+   <tag>Product</tag>
+   <comment></comment>
+   <testCaseGuid>026ba6e8-cab1-42e6-9693-5f1ac513d873</testCaseGuid>
+   <variable>
+      <defaultValue>'I am traveling from the United States or one of it\'s territories and I had received a negative pre-departure test result for COVID-19 within 48 hours prior to departure.'</defaultValue>
+      <description>Question it belongs to: which_statement_applies</description>
+      <id>2ecb3d28-5d4d-4b84-a2c5-d01d3b9ec56c</id>
+      <masked>false</masked>
+      <name>Statement_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'I am traveling from an international destination and I had received a negative pre-departure test result for COVID-19 within 24 hours prior to departure.'</defaultValue>
+      <description>Question it belongs to: which_statement_applies</description>
+      <id>63d0d1e7-772d-4569-9dee-4f0003a1b235</id>
+      <masked>false</masked>
+      <name>Statement_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'I attest that I have recovered from COVID-19 in the last 3 months, after having previously tested positive.'</defaultValue>
+      <description>Question it belongs to: which_statement_applies</description>
+      <id>640bf408-74b8-48cb-920c-4fa59590daf5</id>
+      <masked>false</masked>
+      <name>Statement_3</name>
+   </variable>
+   <variable>
+      <defaultValue>'I am traveling from the United States or one of it\'s territories and I will take the PCR test in Puerto Rico and assume the cost of it.'</defaultValue>
+      <description>Question it belongs to: which_statement_applies</description>
+      <id>3b2f45b4-1a25-4f2b-b789-23e8d6ef1746</id>
+      <masked>false</masked>
+      <name>Statement_4</name>
+   </variable>
+   <variable>
+      <defaultValue>'I am traveling from United States or one of it\'s territories and I am fully vaccinated.'</defaultValue>
+      <description>Question it belongs to: which_statement_applies</description>
+      <id>0f0904a7-a2f7-485c-92a1-08f312e9ccc4</id>
+      <masked>false</masked>
+      <name>Statement_5</name>
+   </variable>
+   <variable>
+      <defaultValue>'Business'</defaultValue>
+      <description>Question it belongs to: reason_for_travel</description>
+      <id>0686dd0e-dae3-4761-b9cb-a772e27f16b6</id>
+      <masked>false</masked>
+      <name>Reason_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Leisure'</defaultValue>
+      <description>Question it belongs to: reason_for_travel</description>
+      <id>fdfcd3ee-4410-4cd0-b339-fbedbb9d27fc</id>
+      <masked>false</masked>
+      <name>Reason_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'Home'</defaultValue>
+      <description>Question it belongs to: reason_for_travel</description>
+      <id>f4a52083-b5ef-45c3-8179-8c249057bb07</id>
+      <masked>false</masked>
+      <name>Reason_3</name>
+   </variable>
+   <variable>
+      <defaultValue>'Family &amp; friends'</defaultValue>
+      <description>Question it belongs to: reason_for_travel</description>
+      <id>dec38a4a-8ad1-451f-9d33-3bae64e5be30</id>
+      <masked>false</masked>
+      <name>Reason_4</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b32e7282-af06-4195-8835-2df5fb3e6696</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>40206a6d-638b-4ebe-bc7c-f4bba69282ab</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>975a5f81-2977-4437-a561-e708e3c848df</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7a232a52-7e6d-4e66-98e4-e7f3fe8da82d</id>
+      <masked>false</masked>
+      <name>Gender</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d4c7567e-805b-4bf3-a9da-ac96f6126767</id>
+      <masked>false</masked>
+      <name>BirthdayMonth</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ddb57e04-1cf0-45e8-bef1-9b38beb01212</id>
+      <masked>false</masked>
+      <name>BirthdayDay</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0644dd65-b6fa-4b66-90a2-a2252e5bcac6</id>
+      <masked>false</masked>
+      <name>BirthdayYear</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>db2ee2fa-6906-4c5f-93da-eb0e7150a42f</id>
+      <masked>false</masked>
+      <name>PassportNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6b325094-1de1-4e26-a503-b365284252f4</id>
+      <masked>false</masked>
+      <name>PassportIssueDateMonth</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ac80cc4c-6a2e-4e73-a9e8-2450fc222ac8</id>
+      <masked>false</masked>
+      <name>PassportIssueDateDay</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>99a06fdb-545f-4a6a-ac7f-ef43bc3014fc</id>
+      <masked>false</masked>
+      <name>PassportIssueDateYear</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e48a5a88-4d59-4171-8723-6698d843039c</id>
+      <masked>false</masked>
+      <name>PassportExpirationMonth</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2d54e44e-a9be-44a8-b21d-d9d42a5c6c35</id>
+      <masked>false</masked>
+      <name>PassportExpirationDay</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>14532d0c-65bd-4e15-8010-7b4ebdcdb17f</id>
+      <masked>false</masked>
+      <name>PassportExpirationYear</name>
+   </variable>
+</TestCaseEntity>

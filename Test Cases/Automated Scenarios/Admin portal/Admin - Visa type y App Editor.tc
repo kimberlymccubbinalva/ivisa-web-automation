@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin - Visa type y App Editor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6274c4e-ac3d-4dc2-90e6-93bbbbb819d4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ae1442f8-4040-47ae-bce1-89db2a47fe9b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ae1442f8-4040-47ae-bce1-89db2a47fe9b</id>
+      <masked>false</masked>
+      <name>NewProduct</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Web - Reach all URLs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>724c4254-7cbf-4d50-bb44-f0b5c0555c0e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0fd18370-74b7-453f-b7ff-f8076ff03b3e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0fd18370-74b7-453f-b7ff-f8076ff03b3e</id>
+      <masked>false</masked>
+      <name>webExtension</name>
+   </variable>
+</TestCaseEntity>

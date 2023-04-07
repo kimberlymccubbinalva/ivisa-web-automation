@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ID 8 - dob.year (A2)</name>
+   <tag></tag>
+   <elementGuidId>e963112f-5766-43f3-8a62-4f95748dd74b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;applicant.1.dob.year&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name='applicant.1.dob.year']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>afbf60fc-3312-4bf9-8233-60df5d5a1079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control q-select</value>
+      <webElementGuid>ccaa2eb5-b0c3-40e9-965d-d494e92bc470</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>applicant.1.dob.year</value>
+      <webElementGuid>6483135f-cfee-4eba-8e51-8cf6a2f4d4c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Year202220212020201920182017201620152014201320122011201020092008200720062005200420032002200120001999199819971996199519941993199219911990198919881987198619851984198319821981198019791978197719761975197419731972197119701969196819671966196519641963196219611960195919581957195619551954195319521951195019491948194719461945194419431942194119401939193819371936193519341933193219311930192919281927192619251924192319221921192019191918191719161915191419131912</value>
+      <webElementGuid>28261f7f-29e4-4164-a38d-c900825dee8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mb-12 sm:mb-0&quot;]/div[1]/div[1]/div[@class=&quot;flex flex-col lg:flex-row items-start&quot;]/div[@class=&quot;w-full mx-auto order-2 lg:order-none lg:w-2/3 xl:w-3/4 lg:pr-8&quot;]/div[3]/div[@class=&quot;mb-4 shadow rounded-md bg-white pb-4 border-gray-300 border-1 border-solid&quot;]/div[@class=&quot;border-gray-100 border-t-2 border-solid w-full md:px-0 pt-5&quot;]/div[@class=&quot;card-body px-5&quot;]/div[@class=&quot;form-row flex flex-col lg:flex-row&quot;]/div[@class=&quot;form-group flex flex-col justify-end max-w-full col-12 col-md-6 col-sm-6&quot;]/div[@class=&quot;ivisa-input-wrapper w-full&quot;]/div[@class=&quot;w-full +&quot;]/div[@class=&quot;ivisa-datepicker flex items-center&quot;]/select[@class=&quot;form-control q-select&quot;]</value>
+      <webElementGuid>ce9a2939-a43b-465b-9b66-7d9987c9678f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='applicant.1.dob.year']</value>
+      <webElementGuid>3c8e1e40-f1ad-403a-9c60-8781af9f5778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/div/div/div[2]/div/div[3]/div[2]/div[2]/div/div/div[5]/div/div/div/select[3]</value>
+      <webElementGuid>ec3cc9a3-47ff-4acc-b3ed-ee09941c79d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birthday'])[2]/following::select[3]</value>
+      <webElementGuid>e8448929-2c62-40a4-bafe-f08471833074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country of Birth'])[2]/preceding::select[1]</value>
+      <webElementGuid>5df4a347-c6a2-4aa5-93b4-3f7e08ccab60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country of Residence'])[2]/preceding::select[2]</value>
+      <webElementGuid>14ce9aff-1419-4cad-9dc6-df1add35f063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[5]/div/div/div/select[3]</value>
+      <webElementGuid>398553db-30da-413a-965a-8ee1f72b1e0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'applicant.1.dob.year' and (text() = 'Year202220212020201920182017201620152014201320122011201020092008200720062005200420032002200120001999199819971996199519941993199219911990198919881987198619851984198319821981198019791978197719761975197419731972197119701969196819671966196519641963196219611960195919581957195619551954195319521951195019491948194719461945194419431942194119401939193819371936193519341933193219311930192919281927192619251924192319221921192019191918191719161915191419131912' or . = 'Year202220212020201920182017201620152014201320122011201020092008200720062005200420032002200120001999199819971996199519941993199219911990198919881987198619851984198319821981198019791978197719761975197419731972197119701969196819671966196519641963196219611960195919581957195619551954195319521951195019491948194719461945194419431942194119401939193819371936193519341933193219311930192919281927192619251924192319221921192019191918191719161915191419131912')]</value>
+      <webElementGuid>fe717866-9d1d-43eb-aa5d-d41631f1f408</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

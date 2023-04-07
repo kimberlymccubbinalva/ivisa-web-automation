@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Calendar - Arrival Date</name>
+   <tag></tag>
+   <elementGuidId>4f11f2dc-85ae-49e3-bd52-649272666a22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vc-day.id-2022-05-18.day-18.day-from-end-14.weekday-4.weekday-position-3.weekday-ordinal-3.weekday-ordinal-from-end-2.week-4.week-from-end-3.in-month.vc-day-box-center-center > span.vc-day-content.vc-focusable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[text() = '7']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eb1f12b8-d9f9-4fbf-bf8f-50a80c98b79a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>5f4e3bf0-688e-4b8d-8fa5-3a1fc3ae73a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>miércoles, 18 de mayo de 2022</value>
+      <webElementGuid>5b108f9b-280d-4069-85a6-df2939929a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>d28af9f0-dd2b-4c41-ab67-6e675797edfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1fbac81e-f4f8-48f8-9e68-e9696ec0ac41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vc-day-content vc-focusable</value>
+      <webElementGuid>d867dc13-8e9c-4a88-84e8-856da0036f14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>f0133f22-3e8f-4536-af73-64e014f085af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mb-12 sm:mb-0&quot;]/div[1]/div[1]/div[@class=&quot;flex flex-col lg:flex-row items-start&quot;]/div[@class=&quot;w-full mx-auto order-2 lg:order-none lg:w-2/3 xl:w-3/4 lg:pr-8&quot;]/div[2]/div[@class=&quot;mb-4 shadow rounded-md bg-white pb-4 border-gray-300 border-1 border-solid&quot;]/div[@class=&quot;border-gray-100 border-t-2 border-solid w-full md:px-0 pt-5 flex flex-col justify-center&quot;]/div[@class=&quot;card-body px-5&quot;]/div[@class=&quot;form-row&quot;]/div[@class=&quot;form-group flex flex-col justify-end col-12 col-md-8 col-sm-6&quot;]/div[@class=&quot;ivisa-input-wrapper w-full&quot;]/div[@class=&quot;w-full +&quot;]/div[1]/div[1]/div[@class=&quot;vc-popover-content-wrapper is-interactive&quot;]/div[@class=&quot;vc-popover-content direction-top vc-container&quot;]/div[@class=&quot;vc-container vc-blue&quot;]/div[@class=&quot;vc-pane-container&quot;]/div[@class=&quot;vc-pane-layout&quot;]/div[@class=&quot;vc-pane row-from-end-1 column-from-end-1&quot;]/div[@class=&quot;vc-weeks&quot;]/div[@class=&quot;vc-day id-2022-05-18 day-18 day-from-end-14 weekday-4 weekday-position-3 weekday-ordinal-3 weekday-ordinal-from-end-2 week-4 week-from-end-3 in-month vc-day-box-center-center&quot;]/span[@class=&quot;vc-day-content vc-focusable&quot;]</value>
+      <webElementGuid>9cb8cd02-b6f6-48ca-ae18-792225dc2331</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

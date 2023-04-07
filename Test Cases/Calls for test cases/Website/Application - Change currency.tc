@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Application - Change currency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cab77e64-4715-45c4-a12f-4975c8f00484</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>333f1d58-e72f-45df-ac1d-21c5676c98d2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>333f1d58-e72f-45df-ac1d-21c5676c98d2</id>
+      <masked>false</masked>
+      <name>SelectCurrency</name>
+   </variable>
+</TestCaseEntity>

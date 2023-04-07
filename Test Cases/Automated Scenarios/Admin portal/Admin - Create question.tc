@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin - Create question</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4bdcc153-a997-43a2-8dbe-6168b7cffbc0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46662375-128d-40f9-acfd-ef3ff7c9a498</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46662375-128d-40f9-acfd-ef3ff7c9a498</id>
+      <masked>false</masked>
+      <name>NewQuestion</name>
+   </variable>
+</TestCaseEntity>

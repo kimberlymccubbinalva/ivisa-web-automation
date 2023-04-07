@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Form - FileUpload question</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ff589e3-fa5e-4d7e-9a95-e58d5aa2bc42</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ed16e813-601a-443f-b823-fed73565e7e8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ed16e813-601a-443f-b823-fed73565e7e8</id>
+      <masked>false</masked>
+      <name>FileUpload</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ID 11 - passport_expiration_date.year (A2)</name>
+   <tag></tag>
+   <elementGuidId>336a0ff6-3301-4b45-a7c3-5e61f8aa0eac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;applicant.1.passport_expiration_date.year&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name='applicant.1.passport_expiration_date.year']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b508a5c9-1503-4946-b474-842340e86a81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control q-select</value>
+      <webElementGuid>8de0f8be-b782-4ad2-b88d-7be4d63bf07d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>applicant.1.passport_expiration_date.year</value>
+      <webElementGuid>d899d7c3-e8f3-4ebb-884b-63eac3f6eb09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Year202220232024202520262027202820292030203120322033203420352036203720382039204020412042</value>
+      <webElementGuid>545fb19e-b374-4ef2-8b3c-bfae6e6c770d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mb-12 sm:mb-0&quot;]/div[1]/div[1]/div[@class=&quot;flex flex-col lg:flex-row items-start&quot;]/div[@class=&quot;w-full mx-auto order-2 lg:order-none lg:w-2/3 xl:w-3/4 lg:pr-8&quot;]/div[3]/div[@class=&quot;mb-4 shadow rounded-md bg-white pb-4 border-gray-300 border-1 border-solid&quot;]/div[@class=&quot;border-gray-100 border-t-2 border-solid w-full md:px-0 pt-5&quot;]/div[@class=&quot;card-body px-5&quot;]/div[@class=&quot;form-row flex flex-col lg:flex-row&quot;]/div[@class=&quot;form-group flex flex-col justify-end max-w-full col-12 col-md-6 col-sm-6&quot;]/div[@class=&quot;ivisa-input-wrapper w-full&quot;]/div[@class=&quot;w-full +&quot;]/div[@class=&quot;ivisa-datepicker flex items-center&quot;]/select[@class=&quot;form-control q-select&quot;]</value>
+      <webElementGuid>7bb3fb88-976d-495d-9b6c-69f147980f29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='applicant.1.passport_expiration_date.year']</value>
+      <webElementGuid>a593fcfd-86fe-4a92-a409-7356b0eb2917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/div/div/div[2]/div/div[3]/div[2]/div[2]/div/div/div[10]/div/div/div/select[3]</value>
+      <webElementGuid>42f0ec3a-0bf6-4519-ad9a-88370c514df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do you have a Pakistani Passport or Pakistani family member?'])[2]/preceding::select[1]</value>
+      <webElementGuid>cfb8d112-5577-44f0-af67-efa19dde9416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Another Person'])[1]/preceding::select[2]</value>
+      <webElementGuid>a2a59ffc-d701-4240-a41c-d586921904c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[10]/div/div/div/select[3]</value>
+      <webElementGuid>144160a3-b5ab-434b-b9c7-f7ed6bac71fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'applicant.1.passport_expiration_date.year' and (text() = 'Year202220232024202520262027202820292030203120322033203420352036203720382039204020412042' or . = 'Year202220232024202520262027202820292030203120322033203420352036203720382039204020412042')]</value>
+      <webElementGuid>f2d952d6-c492-4bc3-b127-25bbe6f77b8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

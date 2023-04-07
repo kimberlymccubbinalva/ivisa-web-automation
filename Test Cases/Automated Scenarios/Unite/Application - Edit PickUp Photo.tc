@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Application - Edit PickUp Photo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8f82147-de2a-4636-afa8-6713f39c1d2b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>22764a56-17ab-4621-ab73-023c072973dd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1ac0dd8a-a26a-4343-abcb-483231519d13</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c2554f3c-ac83-4f29-af47-87fa536bdc1b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.CustomerEmail</defaultValue>
+      <description></description>
+      <id>22764a56-17ab-4621-ab73-023c072973dd</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ann'</defaultValue>
+      <description></description>
+      <id>1ac0dd8a-a26a-4343-abcb-483231519d13</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Stuart'</defaultValue>
+      <description></description>
+      <id>c2554f3c-ac83-4f29-af47-87fa536bdc1b</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+</TestCaseEntity>

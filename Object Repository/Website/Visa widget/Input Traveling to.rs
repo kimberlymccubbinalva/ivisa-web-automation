@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input Traveling to</name>
+   <tag></tag>
+   <elementGuidId>49defcf2-137c-4406-856c-20b4be3b4b30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;doNotAutofill0.22355547872135206&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@data-dusk='Traveling to' and @type='search']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d433d579-a2af-4990-a56d-77407ee916ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>doNotAutofill0.22355547872135206</value>
+      <webElementGuid>4d7561b0-cf9a-4352-aa81-242f8a14e96d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>8160fc84-fe86-4e25-ac73-2fcc01b64f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>combobox</value>
+      <webElementGuid>fdb9ee4a-032d-4f34-9ffb-7bd6a99ff09a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>02e3eaa3-1204-4c4f-952a-6ebae1764da2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dusk</name>
+      <type>Main</type>
+      <value>Traveling to</value>
+      <webElementGuid>da580976-b95c-4787-87df-a0c2b11d46ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-2 h-9 pl-8 text-base rounded-md bg-white border-1 border-solid border-gray-300 inputoption__filter nav-link flex items-center focus:outline-none focus:border-green-500</value>
+      <webElementGuid>988e101e-912c-4d18-ae8e-0ef36e91f84e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;text-white md:flex md:items-center md:flex-col md:justify-center relative bg-center bg-no-repeat bg-cover homepage-intro lg:mb-16 pt-8 lg:pt-20 md:pt-0 pb-24 lg:pb-12 px-4 w-full h-full&quot;]/div[@class=&quot;w-full&quot;]/form[@class=&quot;w-full max-content mx-auto max-w-container px-2 rounded-md h-full flex flex-col md:flex-row my-0 items-end widget-visa-checker mb-0 flex-col md:flex-row md:py-5&quot;]/div[@class=&quot;m-0 py-0 intro-item md:w-1/2 px-2 h-24 flex flex-col justify-center items-center p-0 md:h-full w-full relative rounded-br-md rounded-bl-md md:rounded-bl-none md:rounded-tr-md&quot;]/div[@class=&quot;dropdown w-full&quot;]/div[@class=&quot;dropdown-filter z-50 shadow-lg dropdown-menu w-full relative eraseInside text-gray-500 show&quot;]/input[@class=&quot;m-2 h-9 pl-8 text-base rounded-md bg-white border-1 border-solid border-gray-300 inputoption__filter nav-link flex items-center focus:outline-none focus:border-green-500&quot;]</value>
+      <webElementGuid>69fadbef-f6ac-4573-987e-c09fd6b77673</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@data-dusk='Traveling to']</value>
+      <webElementGuid>a9141ea6-59e6-4e51-b0a0-249df51a651f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/form/div[2]/div/div[2]/input</value>
+      <webElementGuid>ad8da071-a946-4689-9fa8-7d26f2b4fc50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/input</value>
+      <webElementGuid>18d9442d-e9f7-48a2-bd2a-6c5e93d1df5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@data-dusk='Traveling to' and @type='search']</value>
+      <webElementGuid>e48ac3f8-3f2e-4806-b0e1-e01e902774ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

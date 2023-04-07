@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>P013 - Printed Passport Photo, Home delivery</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c59704e-cae6-4afd-b602-ea658210675c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>d605e087-83ae-42d6-a2ee-83a26d02bfc0</id>
+      <iterationEntity>
+         <iterationType>SPECIFIC</iterationType>
+         <value>1</value>
+      </iterationEntity>
+      <testDataId>Data Files/Database</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>d605e087-83ae-42d6-a2ee-83a26d02bfc0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Email</value>
+      <variableId>22764a56-17ab-4621-ab73-023c072973dd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>d605e087-83ae-42d6-a2ee-83a26d02bfc0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Name</value>
+      <variableId>1ac0dd8a-a26a-4343-abcb-483231519d13</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>d605e087-83ae-42d6-a2ee-83a26d02bfc0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>LastName</value>
+      <variableId>c2554f3c-ac83-4f29-af47-87fa536bdc1b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>22764a56-17ab-4621-ab73-023c072973dd</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1ac0dd8a-a26a-4343-abcb-483231519d13</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2554f3c-ac83-4f29-af47-87fa536bdc1b</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+</TestCaseEntity>

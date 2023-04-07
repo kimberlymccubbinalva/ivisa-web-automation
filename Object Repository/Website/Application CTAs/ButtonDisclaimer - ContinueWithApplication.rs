@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ButtonDisclaimer - ContinueWithApplication</name>
+   <tag></tag>
+   <elementGuidId>bd88eff3-6262-44d6-a7c4-14a28c0c101b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnDisclaimerNext > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnDisclaimerNext']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>786b82a7-b4d6-42c4-88c9-6b66397416ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue With Application</value>
+      <webElementGuid>4551194e-aab5-4e6f-bd90-1afff76ce087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnDisclaimerNext&quot;)/span[1]</value>
+      <webElementGuid>38e5fc45-1a78-4dae-a904-e4c13423f1be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btnDisclaimerNext']</value>
+      <webElementGuid>8b3edb48-f089-42e7-8dbd-1c4a3718e30b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

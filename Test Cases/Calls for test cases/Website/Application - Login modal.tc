@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Application - Login modal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39c155a3-9deb-4932-bb24-4da7913ef98e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f576efc4-ee9b-4f8f-9a65-45cf6e4d20a8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'aaaa'</defaultValue>
+      <description></description>
+      <id>f576efc4-ee9b-4f8f-9a65-45cf6e4d20a8</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

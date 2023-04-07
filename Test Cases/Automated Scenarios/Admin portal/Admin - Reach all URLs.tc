@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin - Reach all URLs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b2fda50-5a69-4726-be7e-0e5f72c7fd52</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>41822dcb-46d0-48b0-a5da-0141295cb9ad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>41822dcb-46d0-48b0-a5da-0141295cb9ad</id>
+      <masked>false</masked>
+      <name>urlExtension</name>
+   </variable>
+</TestCaseEntity>

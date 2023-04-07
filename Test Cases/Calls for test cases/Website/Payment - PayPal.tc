@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment - PayPal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edb1a8e4-87c2-4253-afb8-3c79e8c8c038</testCaseGuid>
+</TestCaseEntity>

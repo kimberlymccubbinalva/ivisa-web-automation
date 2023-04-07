@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ID 903 - visa_type_id.general</name>
+   <tag></tag>
+   <elementGuidId>68d6bee9-654c-44de-be5d-ef467fdaa49b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-dusk='dropdown-general.visa_type_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;general.visa_type_id&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>7035d776-c7dc-4999-bf9e-fe716abb60f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ivisa-form-field ivisa-input-dropdown form-control</value>
+      <webElementGuid>883a2447-6ab7-417a-8f2a-ae08a93214d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>general.visa_type_id</value>
+      <webElementGuid>82a55b5d-906e-487d-8e69-f15e1fa1a072</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>eVisa - 90 days, Single EntryeVisa - 90 days, Multiple EntryDeclaration Form - 14 days, Single Entry</value>
+      <webElementGuid>62be295b-57d3-4177-9640-60f356b7ecee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mb-12 sm:mb-0&quot;]/div[1]/div[1]/div[@class=&quot;flex flex-col lg:flex-row items-start&quot;]/div[@class=&quot;w-full mx-auto order-2 lg:order-none&quot;]/div[1]/div[@class=&quot;mb-4 shadow rounded-md bg-white pb-4 border-gray-300 border-1 border-solid&quot;]/div[@class=&quot;border-gray-100 border-t-2 border-solid w-full md:px-0 pt-5 flex flex-col justify-center&quot;]/div[@class=&quot;card-body px-5&quot;]/div[@class=&quot;form-row&quot;]/div[@class=&quot;form-group flex flex-col justify-end col-12 col-md-12&quot;]/div[@class=&quot;ivisa-input-wrapper w-full&quot;]/div[@class=&quot;w-full +&quot;]/div[@class=&quot;form-row items-end flex&quot;]/div[@class=&quot;col-sm-6&quot;]/div[1]/select[@class=&quot;ivisa-form-field ivisa-input-dropdown form-control&quot;]</value>
+      <webElementGuid>ce793b6b-5e5e-4ebe-8301-a778afca31b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='general.visa_type_id']</value>
+      <webElementGuid>5369f008-f5cb-441b-bd71-aa54f56d9c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/div/div/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div/div/div/select</value>
+      <webElementGuid>a5d2910b-3b71-4559-9a7e-6e7cd640b274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applying for'])[1]/following::select[1]</value>
+      <webElementGuid>c529e74f-1ed5-484a-bfd6-5559506be641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where am I from?'])[1]/following::select[2]</value>
+      <webElementGuid>00f95fb8-a58e-4ca3-9e86-e38924d100cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::select[1]</value>
+      <webElementGuid>9ed840a8-7d27-4595-ad07-3d898453a2cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total:'])[1]/preceding::select[1]</value>
+      <webElementGuid>5e98fb09-33d2-4e34-9901-6c7d5164ba8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/select</value>
+      <webElementGuid>33a23df6-dc25-4c5d-9f92-08e5ed5d74a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'general.visa_type_id' and (text() = 'eVisa - 90 days, Single EntryeVisa - 90 days, Multiple EntryDeclaration Form - 14 days, Single Entry' or . = 'eVisa - 90 days, Single EntryeVisa - 90 days, Multiple EntryDeclaration Form - 14 days, Single Entry')]</value>
+      <webElementGuid>94a1486c-dd62-4deb-af74-401276372ec3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

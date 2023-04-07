@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ID 890 - photo_expert_review</name>
+   <tag></tag>
+   <elementGuidId>1f8a09b0-55bd-4b64-9f57-9f3afda95ba5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.custom-control-label.text-gray-500.leading-relaxed.text-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@data-dusk='expert_review']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1eff9826-cc03-4bb8-b530-cab6c23460d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label text-gray-500 leading-relaxed text-sm</value>
+      <webElementGuid>553d9b66-97a5-49bb-b29b-2c472c4b4fc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>expert</value>
+      <webElementGuid>26f1e6d6-a234-41fc-8bb9-087cc7216ac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dusk</name>
+      <type>Main</type>
+      <value>expert_review</value>
+      <webElementGuid>a65c880d-60f9-4c66-b2c6-201c2c0c72fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Expert Review | USD 4.95/person</value>
+      <webElementGuid>8db7f662-c125-404d-814a-65705afbb805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mb-12 sm:mb-0&quot;]/div[1]/div[1]/div[@class=&quot;flex flex-col lg:flex-row items-start&quot;]/div[@class=&quot;w-full mx-auto order-2 lg:order-none lg:w-2/3 xl:w-3/4 lg:pr-8&quot;]/div[4]/div[@class=&quot;mb-4 shadow rounded-md bg-white pb-4 border-gray-300 border-1 border-solid&quot;]/div[@class=&quot;border-gray-100 border-t-2 border-solid w-full md:px-0 pt-5 flex flex-col justify-center&quot;]/div[@class=&quot;card-body px-5&quot;]/div[@class=&quot;form-row&quot;]/div[@class=&quot;form-group flex flex-col justify-end col-12 col-md-12&quot;]/div[@class=&quot;ivisa-input-wrapper w-full&quot;]/div[@class=&quot;relative w-full +&quot;]/div[@class=&quot;py-4&quot;]/div[@class=&quot;pl-8&quot;]/label[@class=&quot;custom-control-label text-gray-500 leading-relaxed text-sm&quot;]</value>
+      <webElementGuid>350fc63c-915b-4806-a7c2-7e6e2aa01b85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/div/div/div[2]/div/div[4]/div/div[3]/div/div/div/div/div/div/div/label</value>
+      <webElementGuid>55c953e0-761d-4998-8f22-c55ff4217006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Would you like to have an Expert Review your Photo?'])[1]/following::label[1]</value>
+      <webElementGuid>0be5e817-7c45-412f-916e-3e479c3bf40a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Expert Review'])[1]/following::label[1]</value>
+      <webElementGuid>6c0b9755-250e-413d-aeb5-e6915223d9d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::label[1]</value>
+      <webElementGuid>686773e8-8815-4ad1-8158-7a1d10085909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='| USD 4.95/person']/parent::*</value>
+      <webElementGuid>37b7a638-127b-4445-b64a-dbdb7829f9e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

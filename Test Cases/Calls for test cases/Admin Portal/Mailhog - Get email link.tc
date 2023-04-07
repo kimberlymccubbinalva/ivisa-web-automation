@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mailhog - Get email link</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d01dad8-5180-413a-97e9-95de1faabfc8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>acaf1f34-9104-4e8e-b0b0-d14ad4cf9e84</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e5ae19ce-2b7a-4259-890b-df3fcfb072c6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9dd0c59f-5b92-406a-97c3-d01bd88d3b2e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>acaf1f34-9104-4e8e-b0b0-d14ad4cf9e84</id>
+      <masked>false</masked>
+      <name>EmailSubject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e5ae19ce-2b7a-4259-890b-df3fcfb072c6</id>
+      <masked>false</masked>
+      <name>EmailURL</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9dd0c59f-5b92-406a-97c3-d01bd88d3b2e</id>
+      <masked>false</masked>
+      <name>EmbedLink</name>
+   </variable>
+</TestCaseEntity>
